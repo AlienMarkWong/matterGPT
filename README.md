@@ -6,7 +6,7 @@ pip install  matterGPT
 
 
 # Authors
-[Guanjie Wang](https://alkemine.cn/gjwang)
+[Guanjie Wang](https://alkemine.cn/gjwang); wangguanjienao@gmail.com
 
 
 
